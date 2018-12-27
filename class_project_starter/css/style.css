@@ -1,0 +1,29 @@
+body {
+  background-color: beige;
+
+
+}
+
+#food {
+  color: red;
+  font-style: underline;
+
+}
+
+#people {
+  font-style: italic;
+  color: green;
+  background-position: center;
+  background-color: maroon;
+}
+
+.biography {
+  color: navy;
+  border: 2px;
+  border-color: red;
+  border-style: dashed;
+  display: inline-block;
+  padding: 25px;
+
+
+}
